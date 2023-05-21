@@ -1,0 +1,4 @@
+[submodule "sodasoba1.github.io"]
+	path = sodasoba1.github.io
+	url = https://github.com/sodasoba1/sodasoba1.github.io.git
+	branch = main
