@@ -10,7 +10,7 @@ After that you can apply any icon to any installed title of your switch and repl
 
 []{left}
 
-* [IconGrabber](https://github.com/Slluxx/IconGrabber)
+* [IconGrabber<br> ![](https://img.shields.io/github/downloads/Slluxx/IconGrabber/total?color=red&style=flat-square)](https://github.com/Slluxx/IconGrabber)
 * [REQUIRED: An API key from steamgriddb.com](sg-api.md)
 * [sys-tweak is required](sys-tweak.md)
 

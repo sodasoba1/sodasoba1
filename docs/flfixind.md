@@ -2,7 +2,7 @@
 
 | Change this:	     	 | Into this:   |
 | :--------------------------: | :----------------------------------------: |
-|![Header](<img/flheader1.png>)|![header1](<img/sw-lay-ed-th5.jpg>)		    |
+|![Header](<img/flaunch/flheader1.png>)|![header1](<img/flaunch/sw-lay-ed-th5.jpg>)		    |
 
 
 

@@ -2,43 +2,45 @@ Offline mode is a good way to keep your nxgic folder clean and prevents it looki
 
 Download and extract NX-GIC
 
-[![nxgic-settings](<img/offline0.1.png>)]{Extracted nxgic|info}
+[![nxgic-setup](<img/usingnxgic/offline/offline0.1.png>)]{Extracted nxgic|info}
 
 Make a new Folder Called `Main`
 
-[![nxgic-settings](<img/offline5.5.png>)]{Main|warning}
+[![nxgic-main](<img/usingnxgic/offline/offline5.5.png>)]{Main|warning}
 
 open nx-gic and select Work Offline 
 
 `File > Work Offline`
 
-[![nxgic-settings](<img/offline1.png>)]{Select Work Offline|info}
+[![nxgic-wrk-offline](<img/usingnxgic/offline/offline1.png>)]{Select Work Offline|info}
 
-Now Download a release of the Game Icon Repo from [my Github](https://github.com/sodasoba1/NSW-Custom-Game-Icons/tags)
+Now Download a release of the Game Icon Repo 
 
-[![nxgic-settings](<img/offline2.png>)]{download the zip from the tags section|info}
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/sodasoba1/NSW-Custom-Game-Icons?color=red&label=Download%20Latest%20Version&logo=gitlfs&logoColor=white)](https://github.com/sodasoba1/NSW-Custom-Game-Icons/tags)
 
-Open the freshly downloaded zip and navigate into the zip
+[![repo-ziptag](<img/usingnxgic/offline/offline2.png>)]{download the zip from the tags section|info}
 
-[![nxgic-settings](<img/offline3.png>)]{downloaded zip from the tags section|info}
+Open the freshly downloaded {==:octicons-file-zip-24: zip==} and navigate into the zip
+
+[![nxgic-open-zip](<img/usingnxgic/offline/offline3.png>)]{downloaded zip from the tags section|info}
 
 extract or drag & drop the `Vertical` folder from Inside the zip file into the `Main` folder
 inside the NX-GIC Directory
 
-[![nxgic-settings](<img/offline4.png>)]{download the zip from the tags section|info}
+[![nxgic-settings](<img/usingnxgic/offline/offline4.png>)]{download the zip from the tags section|info}
 
 Be sure the structure is correct inside `Main/Vertical/` folder
 
-[![nxgic-settings](<img/struc.png>)]{folder structure of the /vertical folder|info}
+[![nxgic-settings](<img/usingnxgic/offline/struc.png>)]{folder structure of the /vertical folder|info}
 
 !!! info inline end "info"
 	refer to online guide for Setting up NX-Titles-Dumper if you run into and problems
 
-Donwload [NX Titles List Dumper](https://github.com/HamletDuFromage/nx-titles-list-dumper/releases) and place the .nro into the `sdmc:/Switch/` folder on the SD
+Download {==[NX Titles List Dumper :octicons-download-24:](https://github.com/HamletDuFromage/nx-titles-list-dumper/releases)==} and place the .nro into the `sdmc:/Switch/` folder on the SD
 
 load nx-titles-list-dumper from hbmenu
 
-![nxgic](<img/nxtitledump.jpg>)
+![TLD1](<img/usingnxgic/nxtitledump.jpg>)
 
 press :material-alpha-a-circle:{ .btna } to dump your installed title IDs
 
@@ -46,34 +48,34 @@ this will place a file into `SD:/titles.csv` once it's `done`
 
 press :fontawesome-solid-circle-plus:{ .yes } to exit
 
-![nxgic](<img/nxtitledump2.jpg>)
+![TLD2](<img/usingnxgic/nxtitledump2.jpg>)
 
 once `SD:/titles.csv` is dumped
 
 transfer titles.csv into the same folder as NX-GIC
 
-[![nxgic-settings](<img/offline5.6.png>)]{download the zip from the tags section|info}
+[![gic-csv](<img/usingnxgic/offline/offline5.6.png>)]{download the zip from the tags section|info}
 
 open nx-gic `File > Settings ` and put the csv location into `Installed Titles List (CSV)`
 
 !!! bug inline end "1.4.0 Bug" 
 	CLOSE nx-gic after clicking save then re-open it
-[![nxgic-settings](<img/offline5.7.png>)]{I Manually add the location and click save|info}
+[![nxgic-settings](<img/usingnxgic/offline/offline5.7.png>)]{I Manually add the location and click save|info}
 
 Click {==SCAN==} and if everything was done correctly you should now see all the icons.
 
-[![nxgic-settings](<img/offline6.png>)]{click scan|info}
+[![nxgic-scan](<img/usingnxgic/offline/offline6.png>)]{click scan|info}
 
 Now you can work offline if you wish to transfer icons it's worth checking the other guide
 
-[![nxgic-settings](<img/offline7.png>)]{I Manually add the location and click save|info}
+[![nxgic-settings](<img/usingnxgic/offline/offline7.png>)]{offline repo setup|info}
 
 adding your own icons can easily be done
 keeping the file name structure:
 
-| {==mariokart-8-deluxe==}-icon001-`[0100152000022000]` |
-| :----------------------------------------------:|
-| {==GAME-NAME==}-iconXXX-`[titleID]`            |
+| {==mariokart-8-deluxe==}-icon001-`[0100152000022000]`  |
+| :-----------------------------------------------------:|
+| {==GAME-NAME==}-iconXXX-`[titleID]`-(Optional-username)|
 
-vertical icons start out at 600px x 900px (2:3 ratio) and must to resized to 256px x 256px
-save as jpg non-progressive and keep the filesize under 120kb otherwise they may not load
+vertical icons start out at 600px x 900px (2:3 ratio) and **must**{ .no } to resized to 256px x 256px
+save as jpg non-progressive and keep the filesize **under 120kb**{ .yes } otherwise they may not load

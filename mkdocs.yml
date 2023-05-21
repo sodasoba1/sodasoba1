@@ -1,6 +1,7 @@
 site_name: Switch Custom Game Icons & Themes
-extra_javascript: [js/color_blocks.js]
-repo_url: https://sodasoba1.github.io
+site_url: https://sodasoba1.github.io
+site_author: Sodasoba1
+Site_description: Guide for customs themes & Icomns for the switch
 
 theme:
   name: material
@@ -9,6 +10,7 @@ theme:
     primary: red
     accent: purple
   logo: img/logo.png
+extra_javascript: [js/color_blocks.js]
 extra_css:
   - stylesheets/hint.min.css
   - stylesheets/extra.css

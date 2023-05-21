@@ -25,7 +25,7 @@ You need to rename the [*[sys-tweak.nsp](https://github.com/p-sam/switch-sys-twe
 Once you've done that place `exefs.nsp` in [`SDMC:/atmosphere/contents/00FF747765616BFF`]{SD Folder location|info}
 setup this folder structure and contents on your [:fontawesome-solid-sd-card:{ .mild }]{SDMC:/|info|right} card:
 
-![laytout](<img/systweak-lay.png>)
+![laytout](<img/sys-tweak/systweak-lay.png>)
 
 
 toolbox.json is a settings file so sys-tweak can be switched off and on in the homebrew menu via a homebrew toolbox
@@ -52,7 +52,7 @@ once you have finished your sys-tweak folder [`00FF747765616BFF`]{SD:/atmosphere
 	
 	you will still need to download and to rename the *[sys-tweak.nsp](https://github.com/p-sam/switch-sys-tweak/actions)* to `exefs.nsp`
 	
-[![SD-contents](<img/sdcontents1.png>)]{SD:/atmosphere/contents/00FF747765616BFF/|right}
+[![SD-contents](<img/sys-tweak/sdcontents1.png>)]{SD:/atmosphere/contents/00FF747765616BFF/|right}
 
 --- 
 

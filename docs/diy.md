@@ -18,7 +18,7 @@ you can grab the biggest assets and images with ease, here is a small example:
 
 
 
-![HUGE FILE SIZES](<img/big.png>)
+![HUGE FILE SIZES](<img/diy/big.png>)
 
 
 
@@ -30,7 +30,7 @@ that you may never see again without some luck using the [wayback machine](https
 
 
 
-![HUGE FILE SIZES](<img/size.png>)
+![HUGE FILE SIZES](<img/diy/size.png>)
 
 
 
@@ -43,10 +43,10 @@ this game was delisted the developer was Gulti and the publisher was KAYAC Inc
 
 with EastAsiaSoft releasing a limited physical version in the asian market
 
-![RXN1](<img/rxn2.png>)
+![RXN1](<img/diy/rxn2.png>)
 
 try and find the logo that's `727` x `623` & transparent using regular search engine results.
-![RXN1](<img/rxn.png>)
+![RXN1](<img/diy/rxn.png>)
 
 ---
 # **Tutorial 1**
@@ -69,7 +69,7 @@ select {==more tools==} > {==Developer tools==} alternatively use the keyboard s
 
 
 
-![dev1](<img/devtools.png>)
+![dev1](<img/diy/devtools.png>)
 
 
 
@@ -77,7 +77,7 @@ in the developer window Click on {==Network==} then click on {==Img==} and reloa
 
 
 
-![dev2](<img/devtools2.png>)
+![dev2](<img/diy/devtools2.png>)
 
 
 when you the page reloads you will see a load of various images choose the images you want to use and save them
@@ -85,13 +85,13 @@ in this example I grabbed the brick texture tile and {==Save image as...==}
 
 
 
-![dev3](<img/devtools3.png>)
+![dev3](<img/diy/devtools3.png>)
 
 
 
 you can also get images from :material-newspaper-variant-outline: press kits which usually contain promotional material which can vary between developers, 
 
-some contain {==:fontawesome-solid-file-pdf: PDFs==} and {==:fontawesome-solid-panorama: wallpapers==} 
+some contain {==:fontawesome-solid-file-pdf: PDFs==} and {==:octicons-file-media-24: wallpapers==} 
 
 others may include full sized individual assets or {==:fontawesome-regular-file-image: PSDs==} with adjustable layers.
 
@@ -99,7 +99,7 @@ Not all developers have press kits and some use a templated press kit site or re
 
 
 
-![presskit](<img/presskit.png>)
+![presskit](<img/diy/presskit.png>)
 
 ---
 ###Example
@@ -110,12 +110,12 @@ so using the press kit & the tiles background from the game site you can see I h
 
 
 
-![fin1](<img/final.png>)
+![fin1](<img/diy/final.png>)
 
 
 
 I tend to save versions rather directly mess with included psds
-![fin1](<img/final2.png>)
+![fin1](<img/diy/final2.png>)
 
 this was the final result of the quick edit made.
 
@@ -135,7 +135,7 @@ If you are just after a vertical cover you might have luck using the <font size=
 in the example below you can see the cover we are going to grab but it's quite small on the website 
 I'll show you how to get the bigger image
 
-![ms1](<img/ms1.png>)
+![ms1](<img/diy/ms1.png>)
 
 :fontawesome-solid-computer-mouse: ++right-button++ the image and {==Open Image in new tab==}
 
@@ -143,13 +143,13 @@ after you open the new image you will notice the URL is very long
 
 in this example I'll be remove the everything after the `?`
 
-![ms2](<img/ms2.png>)
+![ms2](<img/diy/ms2.png>)
 
 {--?q=90&w=177&h=265--} this is basically the *quality, width & height*
 
 after removing that text press enter and voila the full size image
 
-![ms3](<img/ms3.png>)
+![ms3](<img/diy/ms3.png>)
 
 
 
@@ -157,14 +157,14 @@ after removing that text press enter and voila the full size image
 
 
 
-![ms4](<img/ms4.png>)
+![ms4](<img/diy/ms4.png>)
 
 
 
 simply rename the file `<yourchoice>.jpg` in this example i used `xbox.jpg`
 
-!!! warning "PLEASE NOTE"
-		it's important to include `.jpg` otherwise the image will have a long extension  like the one in the image above 
+!!! example ":octicons-image-24:"
+		it's important to include `.jpg` file extension otherwise the image will have a long extension  like the one in the image above 
 		
 		
 and there is the full sized image from website `720px` x `1080px` at the best quality it hosts
@@ -172,7 +172,7 @@ and there is the full sized image from website `720px` x `1080px` at the best qu
 which is perfectly {==2:3 ratio==}
 
 
-![ms5](<img/ms5.png>)
+![ms5](<img/diy/ms5.png>)
 
 ---
 ##playstation website
@@ -192,7 +192,7 @@ select {==More tools==} > {==Developer tools==} or press [++ctrl+shift+i++]{DevT
 
 
 
-![dev](<img/devtools.png>)
+![dev](<img/diy/devtools.png>)
 
 
 
@@ -200,19 +200,19 @@ but unlike the first example you will need to {==Open image in new tab==}
 
 
 
-![ps1](<img/ps1.png>)
+![ps1](<img/diy/ps1.png>)
 
 
 
 as with the xbox site, playstation also use resizing via the URL simply remove the text after `?` again
 
-![ps2](<img/ps2.png>)
+![ps2](<img/diy/ps2.png>)
 
 
 
 even if the image shows as a jpg in the url for me they save as webp but most new image programs open them such as gimp or even paint
 
-![ps3](<img/ps3.png>)
+![ps3](<img/diy/ps3.png>)
 
 alternatively you could grab the whole URL leaving out `?` and make a hyperlink in a html file and {==save target as==}
 
@@ -226,7 +226,7 @@ other sites such as SteamDB you can grab the portrait image
 
 simply click {==:material-information-outline: information==} and under *library_assets* you can usually find logo's here also.
 
-![steamdb](<img/steamdb.png>)
+![steamdb](<img/diy/steamdb.png>)
 
 [SteamgridDB](https://www.steamgriddb.com/) also has the same api access and you can view the original assets by clicking on any game and
 pressing the {==View Original Steam Assets==} button near the top
@@ -297,7 +297,7 @@ sites but you may find different regions have different assets for a particular 
 
 
 
-![njp](<img/jpvus.png>)
+![njp](<img/diy/jpvus.png>)
 
 as you can see the US site has a bigger version of the background
 
@@ -314,7 +314,7 @@ then once the DevTools window is open
 
 Click the {==Toggle device toolbar==} icon or press ++ctrl+shift+m++
 
-![tlb](<img/devicetogglezoom.png>)
+![tlb](<img/diy/devicetogglezoom.png>)
 
 
 
@@ -322,7 +322,7 @@ once you toggle reload ( ++f5++ or ++ctrl+r++ ) the page and you may notice diff
 
 
 
-![steamdb](<img/devicetoggle.png>)
+![steamdb](<img/diy/devicetoggle.png>)
 
 if you click the Dimensions Dropdown list and select a tablet device to emulate you may get another set of different icons
 
@@ -370,7 +370,7 @@ Now lets use everything we have learned and make a cover that will work with a v
 
 
 
-![steamdb](<img/xeno.png>)
+![steamdb](<img/diy/xeno.png>)
 
 
 I'm going to use the 600px wide promotional art, because I tend to use steamgriddb quite a bit
@@ -379,7 +379,7 @@ I've gotten into the habit of making `600x900` images and the `2:3` ratio is the
 
 so I made a 600 x 900 image and dropped / imported the promotional image into my canvas and adjusted it to my liking.
 
-![steamdb](<img/xeno2.png>)
+![steamdb](<img/diy/xeno2.png>)
 
 well would you look at that nice and simple but the switch won't be able to open this so we have to do some tweaks
 
@@ -392,7 +392,7 @@ as `we need a 256x256` image
 
 
 
-![steamdb](<img/xeno3.png>)
+![steamdb](<img/diy/xeno3.png>)
 
 as you can see the jpg is 88.2K with the switch you need to keep the image `below 128K` so the `target I aim for is 120k`
 
@@ -411,23 +411,23 @@ Here are just some very quick covers i made using some of the techniques above
 
 how about the new zelda game?
 
-![steamdb](<img/cover000.png>)
+![steamdb](<img/diy/cover000.png>)
 
 what about a japanese version?
 
-![steamdb](<img/cover002.png>)
+![steamdb](<img/diy/cover002.png>)
 
 
 oh I've not seen the cart yet have you? it might look like this:
 
 
 
-![steamdb](<img/switch-cart2.png>) ![steamdb](<img/switch-cart3.png>) ![steamdb](<img/switch-cart4.png>)
+![steamdb](<img/diy/switch-cart2.png>) ![steamdb](<img/diy/switch-cart3.png>) ![steamdb](<img/diy/switch-cart4.png>)
 
 maybe they will release a special edition gold cart?
 
 perhaps atmosphere will come out on cart?
 
-![steamdb](<img/switch-cart.png>)
+![steamdb](<img/diy/switch-cart.png>)
 
 there is no limit to what can be done...
