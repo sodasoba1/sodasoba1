@@ -16,7 +16,7 @@ Click on {==:material-file-undo-outline:Apply JSON==} and locate {++:material-fi
 
 ![Switch Layout Editor](<img/flaunch/sw-lay-ed-kit2.png>){ width="400" }
 
-Now Repeat the step above and apply  [{==:material-file-document-edit-outline: offset-allappsfix (All Apps).json==} :material-download-circle:{ .yes }](offset-allappsfix (All Apps).zip)
+Now Repeat the step above and apply  [{==:material-file-document-edit-outline: offset-allappsfix (All Apps).json==} :material-download-circle:{ .bounce }](offset-allappsfix (All Apps).zip)
 
 ![Switch Layout Editor](<img/flaunch/sw-lay-ed-kit3.png>)
 

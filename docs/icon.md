@@ -1,17 +1,17 @@
-Icons
----
+#Icons
 
-Removed for now:
+##Currently Removed:
 
-[:fontawesome-solid-xmark:{.no}  {--[DEFAULT ICONS]--}]{Currently Down|right|error}
+[:material-image-size-select-actual:{ .no } {--DEFAULT ICONS--}]{Currently Down|right|error}:fontawesome-solid-xmark:{ .error }
    
-[:fontawesome-solid-xmark:{.no}  {--[HORIZONTAL ICONS]--}]{Currently Down|right|error}
-
-Still Available:
+##Available Repositories:
    
-:fontawesome-solid-check:{.yes}   {++[VERTICAL ICONS](https://github.com/sodasoba1/NSW-Custom-Game-Icons/tree/main/Vertical)++}
+:material-image-album:{.yes} [VERTICAL ICONS](https://github.com/sodasoba1/NSW-Custom-Game-Icons/tree/main/Vertical) :fontawesome-solid-check:{.jello}   
 
-Searching for Icons
----
+:material-image:{.yes}  [SQUARE ICONS](https://github.com/sodasoba1/NSW-Custom-Game-Icons-square/tree/main/Default) :fontawesome-solid-check:{ .jello }  
 
- [:fontawesome-solid-magnifying-glass:  [File Finder](https://github.com/sodasoba1/NSW-Custom-Game-Icons/find/main)]{Search the Icon Repo with github|right|info}
+###Searching for Icons
+
+ [:material-image-album: Vertical : [:fontawesome-solid-magnifying-glass: File Finder](https://github.com/sodasoba1/NSW-Custom-Game-Icons/find/main)]{Search the Vertical Icon Repo with github|right|info}
+ 
+ [:material-image: Square (Default) : [:fontawesome-solid-magnifying-glass: File Finder](https://github.com/sodasoba1/NSW-Custom-Game-Icons-square/find/main)]{Search the Square Icon Repo with github|right|info}

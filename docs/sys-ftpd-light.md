@@ -3,7 +3,7 @@
 How to Enable
 ---
 it can be enabled or disabled either via a :material-cog: toolbox.nro or a hotkey combination the default being 
-[ :material-gamepad-variant-outline:  : :fontawesome-solid-circle-plus:{ .btna } + :fontawesome-solid-circle-minus:{ .btna } + :fontawesome-solid-circle-xmark:{ .btna } ]{DEFAULT HOTKEY COMBO|right|rounded|bounce|info}
+[ :material-microsoft-xbox-controller: :fontawesome-solid-circle-plus:{ .jello } + :fontawesome-solid-circle-minus:{ .jello } + :fontawesome-solid-circle-xmark:{ .jello } ]{DEFAULT HOTKEY COMBO|right|rounded|bounce|info}
 
 ### Toolbox
 check sys-ftpd-light is enabled on your switch before setting up nx-gic & any time you transfer
@@ -20,7 +20,13 @@ either enable via you're desired homebrew toolbox
 
 ### :fontawesome-solid-address-card: login credentials
 
-be sure to add sys-ftpd-light credentials either before extracting it to the root of your SD card or by editing the [`Config.ini`]{SDMC:/config/sys-ftpd/config.ini|right|rounded|bounce|error}
+be sure to add sys-ftpd-light credentials either before extracting it to the root of your SD card or by editing the [`config.ini`]{SDMC:/config/sys-ftpd/config.ini|right|rounded|bounce|error}
 located on sd card [:fontawesome-solid-sd-card::/config/sys-ftpd/]{SDMC:/config/sys-ftpd/config.ini|bottom|rounded|bounce|error} of the switch
 
 [![ftpd](<img/sys-ftpd-light/sysftpd.jpg>)]{This is a example of my config.ini |info}
+
+### :material-lan-connect: Finding your switch IP
+
+If you are unsure what your switch IP is you can locate the ip in `system settings` > `Internet`
+
+[![ftpd](<img/pre/nxftpd.jpg>)]{open System settings then click Internet|right|rounded|bounce|success}

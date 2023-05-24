@@ -1,12 +1,11 @@
 #![Header](<img/header.png>)
-!!! success inline start "*updated 20th May 2023*"
 
 !!! example "Written for nx-gic v1.4.0 - confirmed working HOS 16.0.2"
     to use this repo correctly you will need to *preapare your switch first*
 
     this entire guide and process only works on atmosphere
-
-
+	
+	![GitHub last commit](https://img.shields.io/github/last-commit/sodasoba1/sodasoba1.github.io?label=Guide Last Updated%3A&style=flat-square)
 
 if you wish to add icons to the repo:
 

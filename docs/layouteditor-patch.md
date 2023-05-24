@@ -1,7 +1,7 @@
 This guide is mainly for Diffpatching option.szs to give my switchdeck theme a better
 overall asthetic  look and feel.
 
-Option.szs has to be manually patched in [switchlayouteditor](https://github.com/FuryBaguette/SwitchLayoutEditor/releases) 
+Option.szs has to be manually patched in [[switchlayouteditor](https://github.com/FuryBaguette/SwitchLayoutEditor/releases) ![GitHub all releases](https://img.shields.io/github/downloads/FuryBaguette/SwitchLayoutEditor/total?color=red&style=flat-square)]{Github|success|top}
 
 the patched file is then copied to `SDMC:/atmosphere/contents/0100000001000/romfs/lyt` with the other szs files
 
@@ -25,7 +25,7 @@ Make a copy of Option.szs to your desktop & download the diffpatch
 	open `NXThemes > Extract home menu >` Click `Extract home menu`
 	![NXThemeinstaller](<img/diffpatch/extract.jpg>)
 
-Download [[Option-diffpatch-for-switchdeck.zip :material-download-circle:{ .yes }](Option-diffpatch-for-switchdeck.zip)]{DOWNLOAD THE ZIP|success|Bottom}
+Download [[Option-diffpatch-for-switchdeck.zip :material-download-circle:{ .bounce }](Option-diffpatch-for-switchdeck.zip)]{DOWNLOAD THE ZIP|success|Bottom}
 
 [![unpatched](<img/diffpatch/02-opt-diff-switchdeck.png>)]{JSON-Diffpatch for Option.szs|info|right}
 

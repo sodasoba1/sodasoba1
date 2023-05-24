@@ -1,21 +1,25 @@
 #[Sys-Tweak is A collection of miscellaneous mitms.](https://github.com/p-sam/switch-sys-tweak) 
 
 The use we need it for is intercepting the displayed game icon,
-essentially it swaps out the icon shown for a installed title with an icon in our atmosphere cfw
-
+essentially it swaps out the icon shown for a installed title with an icon in our atmosphere cfw located at 
 
 ` SDMC:/atmosphere/contents/TITLEID/icon.jpg `
 
-:fontawesome-solid-rocket: atmosphere 0.19.0+
+`FEAT_NSAM_CONTROL` : [5.1.0+] Mitm's `ns:am2`->GetReadOnlyApplicationControlDataInterface to override icon/author/version/name by title.
+
+`FEAT_NSRO_CONTROL` : [11.0.0+] Same hook as above, but mitm target is `ns:ro`
+
+
+:fontawesome-solid-link: Binary Download
 ---
 
 Build [switch-sys-tweak](https://github.com/p-sam/switch-sys-tweak) or alternatively use one of the links below of a pre compiled version.
 
-| LATEST VERSION:                                                                                                         | Tested on                               | link up? |
-| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | -------- |
-| [[latest version on GBATemp](https://gbatemp.net/threads/custom-game-icons-tutorial-and-sharing-hub.574675/post-9738297)]{UP|success} | HOS 16.0.0 - AMS 1.5.2  			  | :fontawesome-solid-check:{ .yes } |
-| [[p-sam sys-tweak github artifact](https://github.com/p-sam/switch-sys-tweak/actions)]{UP|success}                                    | [Same as above] | :fontawesome-solid-check:{ .yes } |
-| [[16BitWonder-Git Repo](https://github.com/16BitWonder/switch-sys-tweak)]{Older Version|warning}								  | Forked Version	AMS 1.0.0		  | :fontawesome-solid-check:{ .yes } |
+| Package Links:                                                                                                         | Tested on                               | link up? |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |:--------:|
+| [[p-sam sys-tweak github artifact](https://github.com/p-sam/switch-sys-tweak/actions)]{UP|success}                                    | HOS 16.0.0 - AMS 1.5.2 | :fontawesome-solid-check:{ .yes } |
+| [[A version I posted on GBATemp](https://gbatemp.net/threads/custom-game-icons-tutorial-and-sharing-hub.574675/post-9738297)]{UP|success} |  HOS 14.1.0 - AMS 1.3.2<br>to<br>HOS 16.0.2 - AMS 1.5.2  			  | :fontawesome-solid-check:{ .yes } |
+| [[16BitWonder Github Repo](https://github.com/16BitWonder/switch-sys-tweak)]{Older Version|warning}								  | Forked Version :	AMS 1.0.0		  | :fontawesome-solid-check:{ .yes } |
 
 :fontawesome-solid-folder-tree: Sys-Tweak setup
 ---
@@ -37,10 +41,10 @@ toolbox.json is a settings file so sys-tweak can be switched off and on in the h
   "name": "sys-tweak",<br>
   "tid": "00FF747765616BFF",<br>
   "requires_reboot": true<br>
-}<br>
+}
 </code>
 
-boot2.flag should be a empty file! [:material-alert-decagram:{ .no }]{rename a blank txt file|right|error}
+[:material-alert-decagram:{ .error }]{rename a blank txt file|right|error} boot2.flag should be a empty file!
 	[`SDMC:/atmosphere/contents/00FF747765616BFF/flags/boot2.flag`]{empty text file|error}
 
 once you have finished your sys-tweak folder [`00FF747765616BFF`]{SD:/atmosphere/contents/00FF747765616BFF/|bottom} it should like similar to this:

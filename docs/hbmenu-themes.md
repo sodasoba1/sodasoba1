@@ -11,19 +11,19 @@ located at: `sdmc:\config\nx-hbmenu\themes\`
 ---
 Themes:
 ---
-###[[![DarkPurple](<img/hb-themes/DarkPurple-v01b-icon.jpg>)  DarkPurple-v01b](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/DarkPurple-v01b.romfs?raw=true)]{DarkPurple|right|example}
+###[[![DarkPurple](<img/hb-themes/DarkPurple-v01b-icon.jpg>)  DarkPurple-v01b :material-download-circle:{ .bounce }](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/DarkPurple-v01b.romfs?raw=true)]{DarkPurple|right|example}
 
 [![DarkPurple](<img/hb-themes/DarkPurple-v01b.jpg>)](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/DarkPurple-v01b.romfs?raw=true)
 
 ---
 
-###[![GreyAsh](<img/hb-themes/GreyAsh-v01b-icon.jpg>) GreyAsh-v01b](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/GreyAsh-v01b.romfs?raw=true)
+###[![GreyAsh](<img/hb-themes/GreyAsh-v01b-icon.jpg>) GreyAsh-v01b :material-download-circle:{ .bounce }](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/GreyAsh-v01b.romfs?raw=true)
 
 [![GreyAsh-v01b](<img/hb-themes/GreyAsh-v01b.jpg>)](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/GreyAsh-v01b.romfs?raw=true)
 
 ---
 
-###[![RichPurple](<img/hb-themes/RichPurple-v01-icon.jpg>) RichPurple-v01](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/RichPurple-v01.romfs?raw=true)
+###[![RichPurple](<img/hb-themes/RichPurple-v01-icon.jpg>) RichPurple-v01 :material-download-circle:{ .bounce }](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/RichPurple-v01.romfs?raw=true)
 
 [![RichPurple-v01.romfs](<img/hb-themes/RichPurple-v01.jpg>)](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/RichPurple-v01.romfs?raw=true)
 

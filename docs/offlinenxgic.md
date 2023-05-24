@@ -16,7 +16,8 @@ open nx-gic and select Work Offline
 
 Now Download a release of the Game Icon Repo 
 
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/sodasoba1/NSW-Custom-Game-Icons?color=red&label=Download%20Latest%20Version&logo=gitlfs&logoColor=white)](https://github.com/sodasoba1/NSW-Custom-Game-Icons/tags)
+[![GitHub tag (VERT)](https://img.shields.io/github/v/tag/sodasoba1/NSW-Custom-Game-Icons?color=red&label=Download%20Latest%20Version%20(VERTICAL%20REPO)&logo=gitlfs&logoColor=white&style=flat-square)](https://github.com/sodasoba1/NSW-Custom-Game-Icons/tags)
+<br>[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/sodasoba1/NSW-Custom-Game-Icons-square?color=gold&label=Download%20Latest%20Version%20%28SQUARE%20REPO%29&logo=gitlfs&logoColor=white&style=flat-square)](https://github.com/sodasoba1/NSW-Custom-Game-Icons/tags)
 
 [![repo-ziptag](<img/usingnxgic/offline/offline2.png>)]{download the zip from the tags section|info}
 
@@ -46,7 +47,7 @@ press :material-alpha-a-circle:{ .btna } to dump your installed title IDs
 
 this will place a file into `SD:/titles.csv` once it's `done` 
 
-press :fontawesome-solid-circle-plus:{ .yes } to exit
+press :fontawesome-solid-circle-plus:{ .jello } to exit
 
 ![TLD2](<img/usingnxgic/nxtitledump2.jpg>)
 

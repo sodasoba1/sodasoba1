@@ -1,5 +1,5 @@
 #Setting Up NX-GIC :material-book-open-page-variant-outline:
-!!! info inline start "[Offline Guide here](offlinenxgic.md)" 
+!!! info inline start "[Offline Guide here](offlinenxgic.md)"
 [ ]{left} 
 
 [ ]{left} 
@@ -33,6 +33,16 @@ put your switch ip into the `Switch IP Address` textbox
 
 `SteamGridDB API Key`
 
+??? Example "only want Square icons 1:1 ?"
+	If you want Square icons / non vertical icons you can add {==sodasoba1/NSW-Custom-Game-Icons-square==} 
+	
+	in the `Icon Repository:` field
+	
+	and if you don't want vertical icons you can remove {--sodasoba1/NSW-Custom-Game-Icons--} 
+	
+	or simply add `{==sodasoba1/NSW-Custom-Game-Icons==}{++-square++}` to the end of my default link in nx-gic
+	
+	
 [![ip](<img/usingnxgic/ip.jpg>)]{Details how to find and setup can be found in the Prerequisites section|info}
 !!! bug "1.4.0: CLOSE AFTER SAVING"
 		once you have saved all the details be sure to {++Close++} NX-GIC

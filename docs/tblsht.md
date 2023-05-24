@@ -44,3 +44,10 @@ click open and titles installed should work correctly
 ??? Bug "Possible Bug"
 	I've noticed errors where nx-gic fails to load the csv correctly and can possibly delete the CSV file from your system
 	so either have a backup or recopy the file from your SD card.
+	
+##Deleting Icons?
+
+The main way to delete icons is to navigate to `SD:/atmosphere/contents/TITLEID/` then delete `icon.jpg` from that folder.
+
+if you want to remove *ALL* icons you can do one of two things.
+Either `Disable sys-tweak`{no} or navigate to `SD:/atmosphere/contents/` and search for `icon.jpg` or `*.jpg` and delete all the `jpgs`

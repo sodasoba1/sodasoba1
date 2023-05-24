@@ -10,7 +10,7 @@ After that you can apply any icon to any installed title of your switch and repl
 
 []{left}
 
-* [IconGrabber<br> ![](https://img.shields.io/github/downloads/Slluxx/IconGrabber/total?color=red&style=flat-square)](https://github.com/Slluxx/IconGrabber)
+* [[IconGrabber<br>![](https://img.shields.io/github/downloads/Slluxx/IconGrabber/total?color=red&style=flat-square)](https://github.com/Slluxx/IconGrabber)]{Github|right|rounded|bounce|success} [[![Website](https://img.shields.io/website?label=%20&logo=nintendoswitch&logoColor=red&style=flat-square&up_color=grey&up_message=GBAtemp%20Thread&url=https%3A%2F%2Fgbatemp.net%2Fthreads%2Ficongrabber-custom-game-icons-theme-teaser.592902%2F)](https://gbatemp.net/threads/icongrabber-custom-game-icons-theme-teaser.592902/)]{GBATemp Discussion|right|rounded|bounce|success}	
 * [REQUIRED: An API key from steamgriddb.com](sg-api.md)
 * [sys-tweak is required](sys-tweak.md)
 
@@ -75,7 +75,7 @@ choose the title you want to apply the new icon to click ok :material-alpha-a-ci
 you will then see `Icon saved` popup in the top right
 [![icongrabber](<img/icongrabber/13.jpg>)]{when you click 'Set as icon' you will get a 'Icon saved' popup in the top right|top|rounded|bounce|success}
 
-Exit Icon grabber :fontawesome-solid-circle-plus:{ .btna }
+Exit Icon grabber :fontawesome-solid-circle-plus:{ .jello }
 
 [![icongrabber](<img/icongrabber/11.jpg>)]{+ to exit then reboot your switch|top|rounded|bounce|error}
 

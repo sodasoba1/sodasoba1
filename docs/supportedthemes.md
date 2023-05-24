@@ -1,6 +1,8 @@
 Grab a horizontal or vertical theme from
 
-[My Vertical Icon Theme Github Repo](https://github.com/sodasoba1/nx-vertical-themes) | [My Themezer Profile](https://themezer.net/creators/458711011998957578)
+:octicons-mark-github-16: [My Vertical Icon Theme Github Repo](https://github.com/sodasoba1/nx-vertical-themes)
+
+![P3E9](<img/supportedthemes/icon-24.png>)  [My Themezer Profile](https://themezer.net/creators/458711011998957578)
 
 more themes are available other than the ones below.
 
@@ -13,10 +15,10 @@ more themes are available other than the ones below.
 
 |  Preview		  	       | NXThemes Download Code	  				  	      | HOS Version made on/for |
 |------------------------------|----------------------------------------------------------------|-------------------------|
-| [![P3E9](<img/supportedthemes/soda1.png>)]{SwitchDeck|right|info}     |  [[P3E9](https://themezer.net/packs/SwitchDeck-3e9)]{themezer.net/packs/SwitchDeck-3e9|right|rounded|bounce|success} <BR><br>Extra: <br> [[Option.szs Diff Patching](layouteditor-patch.md)]{Not Required But Recommended|top|rounded|bounce|info} | [14.0.0+]{Works with new HOS14+ Groups|left|rounded|bounce|success} 	  		  |
-| [![Soda](<img/supportedthemes/soda3.png>)]{Vertical OEM|right|info}      |  [[P3E1](https://themezer.net/packs/Vertical-OEM-14.0-3e1)]{themezer.net/packs/Vertical-OEM-14.0-3e1|right|rounded|bounce|success}      | [14.0.0+]{Works with new HOS14+ Groups|left|rounded|bounce|success}			  |
-| [![Soda](<img/supportedthemes/soda2.png>)]{Intergalactic|right|info}      |  [[P3B0](https://themezer.net/packs/Intergalactic-Verical-3b0)]{themezer.net/packs/Intergalactic-Verical-3b0|right|rounded|bounce|error}  | [13.0.0]{OLD|left|rounded|bounce|error} 			  |
-| [![Soda](<img/supportedthemes/soda4.png>)]{PaintSplosion|right|info}  	 |  [[P38C](https://themezer.net/packs/PaintSplosion-Vertical-38c)]{themezer.net/packs/PaintSplosion-Vertical-38c|right|rounded|bounce|error} | [13.0.0]{OLD|left|rounded|bounce|error}            |
+| [![P3E9](<img/supportedthemes/soda1.png>)]{SwitchDeck|right|info}     |  [[P3E9](https://themezer.net/packs/SwitchDeck-3e9)]{themezer.net/packs/SwitchDeck-3e9|right|rounded|bounce|success} <BR><br>Extra: <br> [[Option.szs Diff Patching](layouteditor-patch.md)]{Not Required But Recommended|top|rounded|bounce|info} <br><br>[[:octicons-mark-github-16: Github](https://github.com/sodasoba1/nx-vertical-themes/tree/master/SwitchDeck-14.0.0)]{Source & nxtheme|rounded|bounce|success} | [14.0.0+]{Works with new HOS14+ Groups|left|rounded|bounce|success} 	  		  |
+| [![Soda](<img/supportedthemes/soda3.png>)]{Vertical OEM|right|info}      |  [[P3E1](https://themezer.net/packs/Vertical-OEM-14.0-3e1)]{themezer.net/packs/Vertical-OEM-14.0-3e1|right|rounded|bounce|success} <br><br>[[:octicons-mark-github-16: Github](https://github.com/sodasoba1/nx-vertical-themes/tree/master/Vertical-OEM)]{Source & nxtheme HoS 13.0 + 14.0|rounded|bounce|success}    | [14.0.0+]{Works with new HOS14+ Groups|left|rounded|bounce|success}			  |
+| [![Soda](<img/supportedthemes/soda2.png>)]{Intergalactic|right|info}      |  [[P3B0](https://themezer.net/packs/Intergalactic-Verical-3b0)]{themezer.net/packs/Intergalactic-Verical-3b0|right|rounded|bounce|error} <br><br>[[:octicons-mark-github-16: Github](https://github.com/sodasoba1/nx-vertical-themes/tree/master/intergalactic)]{Source & nxtheme HoS 13.0|rounded|bounce|error}  | [13.0.0]{OLD|left|rounded|bounce|error} 			  |
+| [![Soda](<img/supportedthemes/soda4.png>)]{PaintSplosion|right|info}  |  [[P38C](https://themezer.net/packs/PaintSplosion-Vertical-38c)]{themezer.net/packs/PaintSplosion-Vertical-38c|right|rounded|bounce|error} <br><br>[[:octicons-mark-github-16: Github](https://github.com/sodasoba1/nx-vertical-themes/tree/master/paintsplosion)]{Source & nxtheme HoS 13.0|rounded|bounce|error} | [13.0.0]{OLD|left|rounded|bounce|error}            |
 
 [zzzribas lava lamp](https://github.com/zzzribas/Lava-Lamp) | [Zhi Themezer](https://themezer.net/creators/239384767785730048)
 
