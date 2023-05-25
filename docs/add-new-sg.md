@@ -1,10 +1,12 @@
-You can add images into NX-GIC via SteamGridDB be sure to add the [API KEY](sg-api.md)
+#:material-image-plus:{ .th-red } Add new icons Via Steamgriddb
 
-Click on `Add New` and select `Online`
+You can add images into NX-GIC via SteamGridDB be sure to add the [:material-script-text-key-outline: API KEY](sg-api.md)
+
+Click on {==  &nbsp;Add New  &nbsp;==} and select {==  &nbsp;  :material-circle-slice-8: Online  &nbsp;==}
 
 #![add-new](<img/usingnxgic/sg-add/add-newsg1.png>)
 
-in the `Find:` textbox input the title you are searching for
+in the {==&nbsp;Find:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;==} textbox input the title you are searching for
 #![add-new](<img/usingnxgic/sg-add/add-newsg2.png>)
 
 once a search is complete you should be able to find the game from the drop down menu
@@ -17,15 +19,15 @@ After you have chosen the game select the icon size you want to add
 
 #![add-new](<img/usingnxgic/sg-add/add-newsg4.png>)
 
-now click `Pull` and if any icons are available they will show.
+now click {==&nbsp; Pull &nbsp;==} and if any icons are available they will show.
 
 #![add-new](<img/usingnxgic/sg-add/add-newsg5.png>)
 
-choose the icon you want and click on `Add`
+choose the icon you want and click on {==&nbsp;:fontawesome-solid-circle-plus:{ .yes } Add &nbsp;==}
 
 #![add-new](<img/usingnxgic/sg-add/add-newsg6.png>)
 
-Search for the Title ID by clicking `Find...`
+Search for the Title ID by clicking {==&nbsp; Find... &nbsp;❘ &nbsp;▼&nbsp;==}
 
 CSV will look for titleIDs from the installed titles off the switch
 
@@ -35,17 +37,17 @@ you can also check slluxx's [titledblookup](https://titledblookup.stackblitz.io/
 
 #![add-new](<img/usingnxgic/sg-add/add-newsg7.png>)
 
-when a result it found via searching simply choose the matching game and click `OK`
+when a result it found via searching simply choose the matching game and click {== &nbsp; OK &nbsp;==}
 
 #![add-new](<img/usingnxgic/sg-add/add-newsg8.png>)
 
-you will see the Icon Name & Title ID are in the textboxes and click `Add`
+you will see the Icon Name & Title ID are in the textboxes and click {==&nbsp;:fontawesome-solid-circle-plus:{ .yes } Add &nbsp;==}
 #![add-new](<img/usingnxgic/sg-add/add-newsg9.png>)
 
 the new icon will be put into the output windows ready for transfer
 #![add-new](<img/usingnxgic/sg-add/add-newsg11.png>)
 
-#Transferring :material-transfer:
+#:material-transfer:{ .th-red } Transferring
 
 !!! info inline start "sys-ftpd-light should be enabled on your switch"
 when you are happy with your chosen icon(s) click<br> `transfer`
@@ -65,5 +67,5 @@ in `SD:/atmosphere/contents/[titleid]/icon.jpg`
 
 once you've finished transferring you will see success in green
 
-!!!Warning "You will need to reboot for icons to refresh"
+!!!Warning "You will need to reboot for icons to refresh :material-restore:"
 

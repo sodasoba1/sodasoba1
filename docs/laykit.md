@@ -1,4 +1,4 @@
-#[LayoutKit](https://github.com/ThemezerNX/LayoutKit) :link:
+#:link: [LayoutKit](https://github.com/ThemezerNX/LayoutKit)
 
 Open LayoutKit and make a {==+ New==} project
 

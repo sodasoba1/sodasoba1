@@ -2,7 +2,7 @@
 
 ##Currently Removed:
 
-[:material-image-size-select-actual:{ .no } {--DEFAULT ICONS--}]{Currently Down|right|error}:fontawesome-solid-xmark:{ .error }
+[:material-image-size-select-actual:{ .no } {--HORIZONTAL ICONS--}]{Currently Down|right|error}:fontawesome-solid-xmark:{ .error }
    
 ##Available Repositories:
    

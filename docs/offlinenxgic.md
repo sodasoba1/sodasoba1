@@ -1,4 +1,5 @@
-Offline mode is a good way to keep your nxgic folder clean and prevents it looking at the entire icon repo everytime you load up, you can manually add updates and your own icons
+#:material-wifi-off:{ .th-red } Offline NC-GIXC
+offline is a good way to keep your nxgic folder clean and prevents it looking at the entire icon repo everytime you load up, you can manually add updates and your own icons
 
 Download and extract NX-GIC
 

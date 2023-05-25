@@ -1,4 +1,4 @@
-#Setting Up NX-GIC :material-book-open-page-variant-outline:
+#:material-book-open-page-variant-outline:{ .th-red } Setting Up NX-GIC
 !!! info inline start "[Offline Guide here](offlinenxgic.md)"
 [ ]{left} 
 
@@ -13,9 +13,20 @@ When you first launch the program you will need to ```scan``` so you can pull th
 ??? example inline end "PLEASE NOTE"
 	the icon repo is over 250mb in zip format with over 3100 files extracting can be slow
 	
-	I have moved Horizontal & Square icons to a seperate repo to save downloading and extracting nx-gic
+	I have moved {--Horizontal &--} Square icons to a seperate repo to save downloading and extracting nx-gic
 	
-	the process is still a little slow
+	the process is still a little slow due to the amount of custom icons
+	
+	---
+	
+	If you want Square icons / non vertical icons you can add {==sodasoba1/NSW-Custom-Game-Icons-square==} 
+	
+	in the `Icon Repository:` field
+	
+	and if you don't want vertical icons you can remove {--sodasoba1/NSW-Custom-Game-Icons--} 
+	
+	or simply add `{==sodasoba1/NSW-Custom-Game-Icons==}{++-square++}` to the end of my default link in nx-gic
+	
 ![nxgic](<img/usingnxgic/nx-gic.png>) 
 
 
@@ -51,7 +62,7 @@ put your switch ip into the `Switch IP Address` textbox
 		this will fix the no login credentials found when you first try to open a FTP connection
 
 
-###Installing NX Title List Dumper :fontawesome-solid-file-csv:
+###:fontawesome-solid-file-csv:{ .th-red } Installing NX Title List Dumper
 
 with `sys-ftpd-light` running on the switch lets install NX Title List Dumper from nx-gic
 
@@ -75,7 +86,7 @@ hit `yes` you will get a popup
 	
 	![yes-popup](<img/usingnxgic/nx-gic-tid3.jpg>)
 
-###Using NX Titles List Dumper :fontawesome-solid-file-csv:
+###:fontawesome-solid-file-csv:{ .th-red } Using NX Titles List Dumper
 
 Once the nro is transferred  load nx-titles-list-dumper from hbmenu
 
@@ -87,7 +98,7 @@ press :material-alpha-a-circle:{ .btna } to dump your installed title IDs
 
 this will place a file into `SD:/titles.csv` once it's `done` 
 
-press :fontawesome-solid-circle-plus:{ .yes } to exit
+press :fontawesome-solid-circle-plus:{ .jello } to exit
 
 once `SD:/titles.csv` is dumped you can click `OK`
 
@@ -108,7 +119,7 @@ If everything is sucessful you will see the completed
 
 	![manual](<img/usingnxgic/yes3.jpg>)
 
-Auto NX-GIC :material-auto-fix:
+:material-auto-fix:{ .th-red } Auto NX-GIC
 ---
 
 Auto nx-gic can be used automatically select icons based off the installed titleIDs on your switch via `titles.csv`
@@ -143,7 +154,7 @@ click on `Add All to Output` to add the matching icons to the upload queue
 
 [ ]{left} 
 
-##Showing Icons Based off TitleID :material-list-status:
+##:material-list-status:{ .th-red } Showing Icons Based off TitleID
 
  you can show icons matching installed TIDs by clicking
 
@@ -151,7 +162,7 @@ click on `Add All to Output` to add the matching icons to the upload queue
 
   [![nxgic-showins-tid](<img/usingnxgic/gic-showins.jpg>)]{Setting this option will show icons that match what's installed on the switch based off the dumped titles.csv file|large|info}
 
-###View A List of installed Games :material-format-list-checkbox:
+###:fontawesome-solid-table-list:{ .th-red } View A List of installed Games 
 
  you may also individually look through each icon folder and use the CSV list to match icons
  by clicking 
@@ -159,7 +170,7 @@ click on `Add All to Output` to add the matching icons to the upload queue
  `title IDs > Show List of Installed Games (CSV)`
  [![nxgic-showcsv](<img/usingnxgic/showcsv.jpg>)]{Use the CSVlist to compare titles with icons|info}
 
-###Editing your Output before tranferring :material-image-edit:
+###:material-image-edit:{ .th-red } Editing your Output before tranferring
 
 It's possible to edit your output before begining to transfer files to the switch
 
@@ -171,16 +182,16 @@ if your output has a game with a title you're unsure of like a japanese title in
 
 you can click on the {==:material-view-sequential-outline:==}`view` button and the icon will open and show you the image in the queue
 
-:octicons-pencil-24: You can set a `custom title` / `Author` & `Version` which is excellent for Fan translations
+{==:octicons-pencil-24:==} You can set a `custom title` / `Author` & `Version` which is excellent for Fan translations
 
 editing in NX-GIC will make a config.ini file and place it in the same folder as the custom icon
 
-<code>
-[override_nacp]<BR>
-name=my custom title name game<br>
-author=someone<br>
-display_version=X.X.X<br>
-</code>
+<pre><code>
+[override_nacp]
+name=my custom title name game
+author=someone
+display_version=X.X.X
+</code></pre>
 
 you can see Yo-Kai Watch is renamed from japanese (妖怪ウォッチ) in the example below
 
@@ -194,7 +205,7 @@ This isn't a permanent "rename" it works the exact same way the icon takeover do
 	you can also use this blazing fast TID/Game search database
 	[[https://titledblookup.stackblitz.io/](https://titledblookup.stackblitz.io/)]{Fast TitleID database lookup written by slluxx}
  
-Transferring :material-transfer:
+:material-transfer:{ .th-red } Transferring
 ---
 
 !!! info inline start "sys-ftpd-light should be enabled on your switch"
@@ -214,9 +225,9 @@ in `SDMC:/atmosphere/contents/[titleid]/icon.jpg`
 
 once you've finished transferring you will see success in green
 
-!!!Warning "You will need to reboot for icons to refresh"
+!!!Warning "You will need to reboot for icons to refresh :material-restore:"
 
-###Recommended transfer method :material-order-bool-descending-variant:
+###:fontawesome-solid-flag:{ .th-red } Recommended transfer method
 
 
 I recommend using the ftp method over mtp as i personally find ftp to be a lot faster, especially when you are bulk transferring custom icons, that's the method I have always used.

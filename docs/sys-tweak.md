@@ -10,7 +10,7 @@ essentially it swaps out the icon shown for a installed title with an icon in ou
 `FEAT_NSRO_CONTROL` : [11.0.0+] Same hook as above, but mitm target is `ns:ro`
 
 
-:fontawesome-solid-link: Binary Download
+:fontawesome-solid-link:{ .th-red }  Binary Download
 ---
 
 Build [switch-sys-tweak](https://github.com/p-sam/switch-sys-tweak) or alternatively use one of the links below of a pre compiled version.
@@ -21,7 +21,7 @@ Build [switch-sys-tweak](https://github.com/p-sam/switch-sys-tweak) or alternati
 | [[A version I posted on GBATemp](https://gbatemp.net/threads/custom-game-icons-tutorial-and-sharing-hub.574675/post-9738297)]{UP|success} |  HOS 14.1.0 - AMS 1.3.2<br>to<br>HOS 16.0.2 - AMS 1.5.2  			  | :fontawesome-solid-check:{ .yes } |
 | [[16BitWonder Github Repo](https://github.com/16BitWonder/switch-sys-tweak)]{Older Version|warning}								  | Forked Version :	AMS 1.0.0		  | :fontawesome-solid-check:{ .yes } |
 
-:fontawesome-solid-folder-tree: Sys-Tweak setup
+:fontawesome-solid-folder-tree:{ .th-red }  Sys-Tweak setup
 ---
 
 You need to rename the [*[sys-tweak.nsp](https://github.com/p-sam/switch-sys-tweak/actions)* to `exefs.nsp`]{github.com/p-sam/|right|rounded|bounce|success} 
@@ -35,22 +35,23 @@ setup this folder structure and contents on your [:fontawesome-solid-sd-card:{ .
 toolbox.json is a settings file so sys-tweak can be switched off and on in the homebrew menu via a homebrew toolbox
  deepsea toolbox
 [`SDMC:/atmosphere/contents/00FF747765616BFF/toolbox.json`]{json location on the SD Card|info}
+<pre><code>
+{
+  "name": "sys-tweak",
+  "tid": "00FF747765616BFF",
+  "requires_reboot": true
+}</code></pre>
 
-<code>
-{<br>
-  "name": "sys-tweak",<br>
-  "tid": "00FF747765616BFF",<br>
-  "requires_reboot": true<br>
-}
-</code>
-
-[:material-alert-decagram:{ .error }]{rename a blank txt file|right|error} boot2.flag should be a empty file!
+???+ Warning "***boot2.flag*** [:material-alert-decagram:{ .error }]{rename a blank txt file|right|error} should be a empty file!" 
+	 
 	[`SDMC:/atmosphere/contents/00FF747765616BFF/flags/boot2.flag`]{empty text file|error}
+	
+	`boot2`, which indicates that the program should be launched during the `boot2` process.
 
 once you have finished your sys-tweak folder [`00FF747765616BFF`]{SD:/atmosphere/contents/00FF747765616BFF/|bottom} it should like similar to this:
 
 ??? Info inline end "Pre Setup Archive of folder structure without sys-tweak"
-	Alternatively I have the toolbox.json & boot.flag files pre setup [*[here :material-download-circle:{ .yes }](setup-00FF747765616BFF.zip)*]{Download|success} 
+	Alternatively I have the toolbox.json & boot.flag files pre setup [*[here :material-download-circle:{ .bounce }](setup-00FF747765616BFF.zip)*]{Download|success} 
       
       simply copy the contents to the [*{++root++}* of your sd card :fontawesome-solid-sd-card:{ .mild }]{SDMC:/|info|right}
 	

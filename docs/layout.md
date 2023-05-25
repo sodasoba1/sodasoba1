@@ -1,4 +1,4 @@
-#[SwitchLayoutEditor](https://github.com/FuryBaguette/SwitchLayoutEditor) :link:
+#:link: [SwitchLayoutEditor](https://github.com/FuryBaguette/SwitchLayoutEditor)
 
 In Switch Layout Editor open the {==.nxtheme==} file you want to patch
 

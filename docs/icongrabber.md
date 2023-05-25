@@ -1,3 +1,4 @@
+#:material-image-search:{ .th-red} icongrabber
  ![icongrabber](<img/icongrabber/ig.png>){: style="float: left"}
 IconGrabber is a homebrew app that one can probably best described as an 
 unofficial steamgriddb client for the Nintendo Switch.
@@ -14,7 +15,7 @@ After that you can apply any icon to any installed title of your switch and repl
 * [REQUIRED: An API key from steamgriddb.com](sg-api.md)
 * [sys-tweak is required](sys-tweak.md)
 
-Setup
+:fontawesome-solid-screwdriver-wrench:{ .th-red } Setup
 ---
 once you have icongrabber on your switch load it up
 > first time users will need their steamgriddb API key
@@ -37,7 +38,7 @@ be sure to select the icon resolution you want to use, Slluxx Does a great job o
 	
 	then save the changes `File > Save` or ++ctrl+s++
 
-Searching
+:fontawesome-solid-magnifying-glass:{ .th-red } Searching
 ---
 
 Searching for icons can be done in 2 ways the easiest method is using the Search by installed titles
@@ -54,14 +55,14 @@ select the game you want to search for an icon of. in this example I'm searching
 if a title is found you should see the game name you are looking for
 ![icongrabber](<img/icongrabber/5.png>)
 
-###Download
+##:material-download:{ .th-red } Download
 you should then get a list if icons from this list you can choose an icon you like.
 ![icongrabber](<img/icongrabber/6.jpg>)
 
 once you find a suitable icon click Download you should get a small popup on the top right
 [![icongrabber](<img/icongrabber/7.jpg>)]{When you download a image you will get a popup in the top right|top|rounded|bounce|success}
 
-###Applying Icons
+##:fontawesome-solid-copy:{ .th-red } Applying Icons
 to apply the newly downloaded icon go back to the main page :material-alpha-b-circle:{ .btna } select Downloaded Icons > Browse downloaded Icons
 [![icongrabber](<img/icongrabber/8.jpg>)]{Too apply Go back to the main menu|top|rounded|bounce|success}
 
@@ -79,6 +80,6 @@ Exit Icon grabber :fontawesome-solid-circle-plus:{ .jello }
 
 [![icongrabber](<img/icongrabber/11.jpg>)]{+ to exit then reboot your switch|top|rounded|bounce|error}
 
-**reboot**{ .no } your switch for the new icon to show up
+**reboot**{ .no }:material-restore:{ .no } your switch for the new icon to show up
 
 [![icongrabber](<img/icongrabber/14.jpg>)]{REBOOTING will show all icon changes|bottom|rounded|bounce|success}

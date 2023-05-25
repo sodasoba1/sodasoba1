@@ -1,3 +1,5 @@
+#:material-image-plus:{ .th-red } Add new icons your system
+
 Manually adding icons you have made or saved to your system is also possible and quite simple
 
 click `Add New` be sure `Manual` is selected choose the `Icon Style` you are adding
@@ -25,7 +27,7 @@ you will now have a updated Icon Name & Title ID check everything is correct and
 Everything will now be ready as the icon is added to your output window ready for transferring 
 #![add-new](<img/usingnxgic/br-add/add-newbr5.png>)
 
-#Transferring :material-transfer:
+#:material-transfer:{ .th-red } Transferring
 
 !!! info inline start "sys-ftpd-light should be enabled on your switch"
 when you are happy with your chosen icon(s) click<br> `transfer`
@@ -45,5 +47,5 @@ in `SD:/atmosphere/contents/[titleid]/icon.jpg`
 
 once you've finished transferring you will see success in green
 
-!!!Warning "You will need to reboot for icons to refresh"
+!!!Warning "You will need to reboot for icons to refresh :material-restore:"
 

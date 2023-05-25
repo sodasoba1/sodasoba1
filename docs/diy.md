@@ -49,7 +49,7 @@ try and find the logo that's `727` x `623` & transparent using regular search en
 ![RXN1](<img/diy/rxn.png>)
 
 ---
-# **Tutorial 1**
+# :fontawesome-solid-book:{ .th-red } **Tutorial 1**
 ##Getting assets from dev sites
 ---
 
@@ -126,7 +126,7 @@ this is just a very basic method, sometimes you may have to make your own assets
 this is why the largest images you can find are better for cutting out etc.
 
 ---
-# **Tutorial 2**
+#:fontawesome-solid-book:{ .th-red }  **Tutorial 2**
 ##xbox website
 ---
 
@@ -238,7 +238,7 @@ obviously steamgridDB is a very awesome site for game covers but they don't incl
 I have done this in the past for [Azure Striker Gunvolt 3 (2022)](https://www.steamgriddb.com/game/5327787)
 
 ---
-# Tutorial 3
+#:fontawesome-solid-book:{ .th-red }  **Tutorial 3**
 ##Thinking outside the box
 ---
 
@@ -362,7 +362,7 @@ think outside the box to make the box cover you want
 
 
 ---
-# Tutorial 4 
+#:fontawesome-solid-book:{ .th-red }  **Tutorial 4 **
 ##Making icons
 ---
 

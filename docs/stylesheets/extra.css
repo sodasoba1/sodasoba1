@@ -73,6 +73,8 @@
 
 .mild {color: #f1f1f1}
 
+.th-red {color: #ef5552}
+
  @keyframes bounce
  {0%{transform:translateY(-1px);animation-timing-function:ease-in opacity:1;}
  24%{opacity:1;}
