@@ -54,12 +54,14 @@ nav:
    - Themes & extra:
                   - Icon Search: 'icon.md'
                   - How to make your own icons: 'diy.md'
-                  - DiffPatching Option.szs: 'layouteditor-patch.md'
                   - HBmenu Themes: 'hbmenu-themes.md'
-   - 14.0 Theme Fix:
-                  - Flaunch Fix intro: 'flfixind.md'
-                  - Prerequisites: 'flpre.md'
-                  - LayoutEditor: 'layout.md'
-                  - LayoutKit: 'laykit.md'
-                  - Switch Theme Injector: 'swthmeinj.md'
+   - Diffing:
+                  - Intro to Diffing: 'introdiffing.md'
+                  - DiffPatching Option.szs: 'layouteditor-patch.md'
+                  - 14.0 Theme Fix:
+                        - Flaunch Fix intro: 'flfixind.md'
+                        - Prerequisites: 'flpre.md'
+                        - LayoutEditor: 'layout.md'
+                        - LayoutKit: 'laykit.md'
+                        - Switch Theme Injector: 'swthmeinj.md'
    - Thanks & Credits: 'thanks.md'

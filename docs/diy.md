@@ -1,7 +1,7 @@
 How to make your own icons
 ---
 
-This Guide was written originally on [GBATemp](https://gbatemp.net/threads/how-to-obtain-assets-to-make-custom-game-covers.624354/)
+This Guide was written originally on [![gba](<img/gbatemp.png>) GBATemp](https://gbatemp.net/threads/how-to-obtain-assets-to-make-custom-game-covers.624354/)
 I'm adding this here for prosperity.
 ---
 
@@ -279,7 +279,7 @@ if you check <span style="color:#888888">:fontawesome-brands-wikipedia-w:ikipedi
 
 Known in Japan as Xenoblade 3 (Japanese: **ゼノブレイド3**, **Hepburn: Zenobureido Surī**)
 
-or you can use a translator  <font size="5">:material-translate:</font> website such as <span style="color:#4285F4">g</span><span style="color:#DB4437">o</span><span style="color:#F4B400">o</span><span style="color:#4285F4">g</span><span style="color:#0F9D58">l</span><span style="color:#DB4437">e</span> translate or DeepL.
+or you can use a translator  <font size="4">:material-translate:</font> website such as <span style="color:#4285F4">g</span><span style="color:#DB4437">o</span><span style="color:#F4B400">o</span><span style="color:#4285F4">g</span><span style="color:#0F9D58">l</span><span style="color:#DB4437">e</span> translate or DeepL.
 
 
 

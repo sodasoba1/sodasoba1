@@ -28,6 +28,10 @@ Themes:
 [![RichPurple-v01.romfs](<img/hb-themes/RichPurple-v01.jpg>)](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/RichPurple-v01.romfs?raw=true)
 
 ---
+Switchbrew Themeing Reference
+---
+
+[Homebrew Menu Theming Instructions](https://switchbrew.org/wiki/Homebrew_Menu#Themes)
 
 Extracting RomFS
 ---

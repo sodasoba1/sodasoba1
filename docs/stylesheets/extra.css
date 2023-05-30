@@ -73,7 +73,32 @@
 
 .mild {color: #f1f1f1}
 
+.pleb {color: #ff4500}
+
 .th-red {color: #ef5552}
+
+.tri {color: #f0f00f}
+
+.minty {color: #98ff98}
+
+.overlay {
+  opacity: 0.7;
+  position: absolute;
+  color: #ff4500;
+  transform: translate(-55px, 8px);
+  z-index:1;  
+ }
+
+@keyframes searching {
+  0% { transform: translate(2px, 1px); }
+  20% { transform: translate(6px, -3px); }
+  40% { transform: translate(2px, 4px); }
+  60% { transform: translate(10px, -6px); }
+  80% { transform: translate(0px, 5px); }
+  90% { transform: translate(8px, 10px); }
+  100% { transform: translate(3px, 2px); }
+}
+ .searching{animation:searching 3s infinite; transform: translate(-40px, 0px); z-index:2; color: #98ff98}
 
  @keyframes bounce
  {0%{transform:translateY(-1px);animation-timing-function:ease-in opacity:1;}

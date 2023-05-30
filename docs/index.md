@@ -25,6 +25,6 @@ if you wish to add icons to the repo:
 
 feel free to request custom icons:
 
-[[:material-gamepad-round: on GBATemp](https://gbatemp.net/members/sodasoba.449962/)]{Contact me on GBATemp|right|rounded|bounce|success}
+[[![gbatemp](<img/gbatemp.png>) on GBATemp](https://gbatemp.net/members/sodasoba.449962/)]{Contact me on GBATemp|right|rounded|bounce|success}
 
-[[:fontawesome-brands-reddit-alien: on Reddit](https://www.reddit.com/user/-Sodasoba-)]{Contact me on Reddit|right|rounded|bounce|error}
+[[:fontawesome-brands-reddit-alien:{.pleb} on Reddit](https://www.reddit.com/user/-Sodasoba-)]{Contact me on Reddit|right|rounded|bounce|error}
