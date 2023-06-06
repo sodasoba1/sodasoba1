@@ -11,6 +11,13 @@ located at: `sdmc:\config\nx-hbmenu\themes\`
 ---
 Themes:
 ---
+
+###[[![decked](<img/hb-themes/decked-v01b-icon.jpg>)  decked-v01b :material-download-circle:{ .bounce }](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/decked-v0.1b.romfs?raw=true)]{decked|right|example}
+
+[![DarkPurple](<img/hb-themes/decked-v01b.jpg>)](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/DarkPurple-v01b.romfs?raw=true)
+
+---
+
 ###[[![DarkPurple](<img/hb-themes/DarkPurple-v01b-icon.jpg>)  DarkPurple-v01b :material-download-circle:{ .bounce }](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/DarkPurple-v01b.romfs?raw=true)]{DarkPurple|right|example}
 
 [![DarkPurple](<img/hb-themes/DarkPurple-v01b.jpg>)](https://github.com/sodasoba1/hbmenu-themes/blob/main/romfs/DarkPurple-v01b.romfs?raw=true)

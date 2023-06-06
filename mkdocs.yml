@@ -51,13 +51,13 @@ nav:
                   - TroubleShooting: 'tblsht.md'
    - Icon Grabber:
                   - Icongrabber: 'icongrabber.md'
-   - Themes & extra:
+   - Extra:
                   - Icon Search: 'icon.md'
                   - How to make your own icons: 'diy.md'
                   - HBmenu Themes: 'hbmenu-themes.md'
-   - Diffing:
-                  - Intro to Diffing: 'introdiffing.md'
-                  - DiffPatching Option.szs: 'layouteditor-patch.md'
+                  - Diffing:
+                        - Intro to Diffing: 'introdiffing.md'
+                        - DiffPatching Option.szs: 'layouteditor-patch.md'
                   - 14.0 Theme Fix:
                         - Flaunch Fix intro: 'flfixind.md'
                         - Prerequisites: 'flpre.md'
